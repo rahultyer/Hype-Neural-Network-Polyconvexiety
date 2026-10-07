@@ -42,3 +42,5 @@ reproduce the trained constitutive behavior to within numerical
 precision, demonstrating a complete pipeline from sparse experimental
 biaxial data to a deployable, physically admissible, three-dimensional
 finite element material model.
+<img width="2401" height="2213" alt="fig_diagram" src="https://github.com/user-attachments/assets/a23e4fda-2d1c-4b20-8082-257e3eca4c13" />
+<img width="2648" height="847" alt="fig_expand2" src="https://github.com/user-attachments/assets/a0f99759-6674-4f79-b80b-514fc251dc84" />
